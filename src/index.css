@@ -1,0 +1,37 @@
+body{
+  margin-top: 20px;
+}
+
+/* .create-box{
+  width: 800px;
+}
+
+.add-button{
+  margin-left: 5px;
+}
+
+ul{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+li {
+  list-style-type: none;
+}
+
+.todo-list {
+  text-align: left;
+  margin: 10px 0
+}
+
+.todo-list .todo-item {
+  padding: 15px;
+  margin: 5px 0;
+  border-radius: 0;
+  background: #f7f7f7
+}
+
+input[type=checkbox]:checked + label.strikethrough {
+  text-decoration:line-through;
+} */
